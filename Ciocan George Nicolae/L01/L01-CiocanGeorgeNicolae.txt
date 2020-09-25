@@ -1,0 +1,14 @@
+ -meniu
+ -bara de cautare
+ -buton de autentificare
+ -buton de inregistrare
+ -buton de home
+ -intrebari
+ -raspunsuri
+ -filtru
+ -tag-uri
+ -butoane de modificare a numarului de intrebari pe pagina
+ -buton de adaugare intrebare
+ -lista cu toti utilizatorii
+ -sectiune pentru job-uri
+ -sectiune pentru companii
