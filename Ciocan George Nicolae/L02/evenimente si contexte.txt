@@ -1,0 +1,8 @@
+StackOverflow
+-autentificare(utilizator)
+	-cautare intrebare(utilizator)
+		-afisare raspunsuri (StackOverflow)
+			-vizualizare(utilizator)
+	-adaugare intrebare(utilizator)
+		-selectare domeniu, limbaj (utilizator)
+		-postarea intrebarii (StackOverflow)
