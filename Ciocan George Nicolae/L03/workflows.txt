@@ -1,0 +1,20 @@
+Bounded context : " Intrebare "
+	Workflow: " Posteaza Intrebare "
+		Triggered by: " Cerere de postare a unei intrebari de catre utilizator "
+		Input: " intrebarea utilizatorului "
+		Output: "Intrebare postata" , " Intrebare respinsa "
+//step1
+	Validare intrebare
+		Validare intrebare utilizator
+			if validare==acceptat then
+				return acceptat
+			else if validare == reviziure the
+				return revizuire
+			else
+				return respins
+		if intrebare is "respinsa" then
+			return "Intrebare respinsa"
+//step2 
+	Postare intrebare
+//step3
+	return "Intrebare publicata"
